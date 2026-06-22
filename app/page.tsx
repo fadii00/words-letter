@@ -50,8 +50,8 @@ I still remember that day like it was yesterday.
 I give the benefit of doubt to you as you said you don't want to rush things,
 maybe knowing each other flaws, quirks and all, is a process that takes time.
 Time can be a good thing, but it can also be a bad thing.
-I once viewed love as something that should happens slowly,
-but now I see it as something that should happens naturally.
+I once viewed love as something that should happens instantly,
+but now I see it as something that should happens naturally and slowly.
 And I don't know if what we have is natural or not,
 but I do know that I want to keep it. (not in a possessive way, but in a hopeful way)
 
@@ -97,7 +97,7 @@ Is it valid for me to be jealous?
 
 So here is another piece of me.
 
-Thank you for reading. <3
+Thank you for reading.
 `
     }
 

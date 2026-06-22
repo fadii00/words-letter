@@ -97,7 +97,7 @@ Is it valid for me to be jealous?
 
 So here is another piece of me.
 
-Thank you for reading.
+Thank you for reading. <3
 `
     }
 

@@ -93,7 +93,7 @@ Jealousy?
 I questioned myself.
 Am I in the right to be jealous?
 Is it valid for me to be jealous?
-
+I leave this question to you.
 
 So here is another piece of me.
 

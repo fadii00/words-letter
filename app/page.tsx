@@ -40,15 +40,60 @@ then maybe I was brave enough after all.
 
 
     {
-      date: "15 July 2026",
-      time: "1:20 AM",
+      date: "23 June 2026",
+      time: "2:40 AM",
       text: `
 Hi Dear,
 
-I wanted to write again.
+I thinks its almost 4 weeks since we first met.
+I still remember that day like it was yesterday.
+I give the benefit of doubt to you as you said you don't want to rush things,
+maybe knowing each other flaws, quirks and all, is a process that takes time.
+Time can be a good thing, but it can also be a bad thing.
+I once viewed love as something that should happens slowly,
+but now I see it as something that should happens naturally.
+And I don't know if what we have is natural or not,
+but I do know that I want to keep it. (not in a possessive way, but in a hopeful way)
 
-Some thoughts are easier to put here
-than to say out loud.
+I saw that modern love demands immediacy, 
+causing the curiosity to know each other faded away quickly,
+and the relationship becomes more of a routine than an adventure.
+I don't want that for us, I want us to keep discovering each other,
+to keep being surprised by each other,
+to keep being curious about each other.
+
+I know most times I will be a bit quiet, 
+but that doesn't mean I don't want to talk to you,
+it just all of my thoughts and questions are gone.
+The things is every moment I spend with you, I feel so calmed and at ease,
+and I don't want to break that by overthinking and overanalyzing things.
+I just want to be with you, and let things happen as they should.
+
+Regret. 
+Yeah, I do have some regrets, which is not saying a proper goodbye to you on our last day together,
+its just I was too consumed by jealousy,
+and I kept rethinking at the moment,
+"why don't he hug me? why don't he kiss me? why don't he say something to me? why don't he look at me? why don't he hold my hand?"
+And I know that I shouldn't have expected those things from you,
+but I just couldn't help it, I wanted to be close to you, and I wanted to show you how much I care about you,
+and I thought that those things would be a good way to do that.
+But instead of showing you how much I care about you, I ended up showing you how much I care about myself,
+and that was not what I wanted at all.
+I always feed myself with the idea that I was just a person who is only capable of being one night stand,
+ and that I will never be able to have a real relationship with someone, and that I will never be able to love someone,
+  and that I will never be able to be loved by someone, and that I will always be alone,
+   and that I will always be a failure, and that I will always be a disappointment, 
+   and that I will always be a burden to everyone around me, 
+   and that I will always be a waste of space and time.
+Its like where everyone wanna take me out but never to a home. 
+Enough too touch but not enough to be held. 
+Enough to feel the flicker but not the flame
+
+Jealousy?
+I questioned myself.
+Am I in the right to be jealous?
+Is it valid for me to be jealous?
+
 
 So here is another piece of me.
 

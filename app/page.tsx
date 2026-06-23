@@ -99,7 +99,42 @@ So here is another piece of me.
 
 Thank you for reading.
 `
-    }
+    },
+
+    {
+      date: "23 June 2026",
+      time: "4:21 PM",
+      text: `
+Hi Dear,
+
+I just want to say that I really appreciate you taking the time to read my letters.
+Reading your responses in your own words,
+knowing that you took the time to understand my thoughts and feelings,
+and that you care enough to respond in a thoughtful and meaningful way,
+means a lot to me.
+
+One question I have is, why do you feel the need to offer something as the price for being loved?
+I don't actually care whether you have money or not,
+I care about you as a person, and I care about the connection we have.
+
+The most things that matter to me usually how you manage things,
+if you are busy, what do you do? 
+Telling me about your situation, it's more than enough for me,
+I'm not a materialistic person, I don't care about money or gifts,
+but even if I do, most things I will work hard to get it myself,
+I like a low maintenance relationship.
+A simple relationship.
+Dates at the park, picnics, eating some chips junks, watching movies together,
+drawing,listening to muusic, discover new things together,
+people watching, and just being together, that's all I want.
+
+I mostly understand your concern about the people around us,
+I'm the kind of person that doesn't like PDA.
+I like to keep things private, and I like to keep things between us.
+It's a secret but everybody knows I'm in relationship,
+something like soft launch, things like that.
+
+    },
 
   ];
 

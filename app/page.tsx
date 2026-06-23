@@ -133,7 +133,7 @@ I'm the kind of person that doesn't like PDA.
 I like to keep things private, and I like to keep things between us.
 It's a secret but everybody knows I'm in relationship,
 something like soft launch, things like that.
-
+`
     },
 
   ];

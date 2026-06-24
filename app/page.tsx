@@ -1,5 +1,6 @@
 "use client";
 
+import Image from "next/image";
 import { useEffect, useState } from "react";
 
 export default function Home() {
@@ -141,7 +142,47 @@ So here is another piece of me.
 Thank you for reading.
 `
     },
+    {
+      date: "25 June 2026",
+      time: "4:39 AM",
+      image: "/photos/IMG_5265.JPG",
+      text: `
+Hi Dear,
 
+Hungry. Thanks for the food :3
+
+Today is not a good day for me.
+Relapse.
+But I try not too think much about it, but I already started to isolate myself from my friends, 24/7 with music,
+anxiety on the roof, thinking of taking back my meds even though I know the effects of it,
+Its just I can shape the kinds of problems I'm facing and thinking about.
+But I try my best to not go back to a bad ways of coping with it. HEHE.
+
+Even I'm sad, I just need to push myself to do things like study, work, and other things that I need to do.
+Plus I have this things I call Scientific Love, where I relate my study to anything in life,
+the most latest one is about the radical polymerization, I think you know about it too maybe,
+so generally we know it goes from initiation, propagation, and termination.
+Initiation is the start of the reaction, where the monomer is activated by the initiator,
+It's like the start of a relationship, where two people are attracted to each other and start to get to know each other.
+Propagation is the growth of the polymer chain, where the monomer is added to the growing chain,
+It's like the growth of a relationship, where two people are getting to know each other better and better.
+Then we have termination, but this time I learn two types of termination, one is combination and the other is disproportionation.
+Combination is where two growing polymer chains combine to form a single polymer chain,
+It's like the combination of two people in a relationship, where they become one and start to build a life together.
+Disproportionation is where one growing polymer chain transfers its radical to another growing polymer chain,
+It's like this is where the end of a relationship, where one person leaves the relationship and the other person is left behind,
+both with a different radical, and they go their separate ways, but they still have a connection to each other, 
+and they still have a bond that will never be broken.
+
+There's a lot more for this kind of thinking. 
+I will share more day by day, and I hope you will enjoy it too.
+For you to know me more, and for me to know you more.
+
+That's a piece of me for this letter.
+
+Thank you for reading and the food. (writing this while eating the food you gave me, hehe)
+`
+    },
   ];
 
 
@@ -181,6 +222,7 @@ Thank you for reading.
     let i = 0;
 
     const text = letters[selectedLetter].text;
+    const image = letters[selectedLetter].image;
 
 
     const typing = setInterval(() => {
@@ -281,6 +323,17 @@ Thank you for reading.
 
             </p>
 
+            {image && (
+              <div className="mb-10 flex justify-center">
+                <Image
+                  src={image}
+                  alt="Letter Image"
+                  width={700}
+                  height={500}
+                  className="rounded-xl"
+                />
+              </div>
+            )}
 
 
             <p className="whitespace-pre-line text-base md:text-lg leading-loose">
@@ -302,7 +355,7 @@ Thank you for reading.
 
 
               <a
-              href="https://wa.me/YOURNUMBER?text=I%20read%20your%20letter"
+              href="https://wa.me/601114945347?text=I%20read%20your%20letter"
               target="_blank"
               className="border px-6 py-3"
               >

@@ -222,8 +222,6 @@ Thank you for reading and the food. (writing this while eating the food you gave
     let i = 0;
 
     const text = letters[selectedLetter].text;
-    const image = letters[selectedLetter].image;
-
 
     const typing = setInterval(() => {
 
@@ -243,7 +241,9 @@ Thank you for reading and the food. (writing this while eating the food you gave
 
   }, [selectedLetter]);
 
-
+const image = selectedLetter !== null
+  ? letters[selectedLetter].image
+  : null;
 
   return (
 

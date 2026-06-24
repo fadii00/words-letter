@@ -328,9 +328,9 @@ const image = selectedLetter !== null
                 <Image
                   src={image}
                   alt="Letter Image"
-                  width={700}
-                  height={500}
-                  className="rounded-xl"
+                  width={300}
+                  height={250}
+                  className="rounded-xl w-64"
                 />
               </div>
             )}

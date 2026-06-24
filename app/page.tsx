@@ -8,7 +8,7 @@ export default function Home() {
   const [selectedLetter, setSelectedLetter] = useState<number | null>(null);
   const [displayText, setDisplayText] = useState("");
 
-  const heading = "The words I don't dare to speak.";
+  const heading = "Words that can't slip past the chains I call my teeth";
 
 
   const letters = [

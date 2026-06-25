@@ -183,6 +183,55 @@ That's a piece of me for this letter.
 Thank you for reading and the food. (writing this while eating the food you gave me, hehe)
 `
     },
+
+    {
+      date: "25 June 2026",
+      time: "12:45 PM",
+      image: "/photos/dictionary.jpg",
+      text: `
+Hi Dear,
+
+This is just a random letter.Maybe a poem I would say.
+
+I'm born too late,
+Too late that none of dictionary can define you.
+Define you through my lenses, where you are a pure nefelibata.
+A nefelibata wandering through a world without your glow.
+Your glow carrying the quiet scent of fresh petrichor.
+Fresh petrichor washing old pages into a sempiternal love.
+Sempiternal because language failed before it could hold us.
+Hold us in words, where none were ever made for you. :3
+
+Vocab for today:
+1. Nefelibata: in my poem, someone who is rare, whimsical or otherworldly
+2. Ethereal: I describe the beauty or presence that feels supernatural
+3. Petrichor: The calming earthy after rain smell
+4. Sempiternal: everlasting/eternal 
+
+Okay asyik English je, nak jugak try Bahasa Melayu, dulu pandai la jugak,
+kan tulis karangan HAHAHAH "sering meniti dari bibir ke bibir manusia dari kedai kopi hingga ke sidang parlimen...." HAHHAHAH
+
+okay okay
+
+Aku hadir terlalu lewat,
+Terlalu lewat sehingga tiada kata di kalam wujud untuk mendefinasikanmu,
+Mendefinasikanmu melalu lensaku, tempat kau menjelma seolah pesona yang abadi.
+Pesona yang mengembara dunia yang kehilangan nurmu.
+Nurmu sehalus bayu,selembut sutera, dan sesyahdu harum bumi seusai hujan.
+Seusai hujan, lembaran sejarah terpadam lalu terbitlah cinta yang lestari.
+Cinta yang lestari karna bahasa tewas sebelum sempat memahami kita.
+Memahami kita dalam tutur kata, dikala dirimu melampaui segala bahasa.
+
+eceh,hahahaha. Ni baru je terfikir sebab tadi cam fikir ada sesetengah perkataaan yang tidak ada dalam kamus
+tk kisahla oxford ke apa. To describe certain feelings or beauty of something. Eg: kintsugi.
+Heheheheh
+
+Selamat menelaah.
+
+Random afternoon. <3
+
+`
+    },
   ];
 
 

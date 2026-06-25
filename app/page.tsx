@@ -215,10 +215,10 @@ okay okay
 
 Aku hadir terlalu lewat,
 Terlalu lewat sehingga tiada kata di kalam wujud untuk mendefinasikanmu,
-Mendefinasikanmu melalu lensaku, tempat kau menjelma seolah pesona yang abadi.
+Mendefinasikanmu melalui lensaku, tempat kau menjelma seolah pesona yang abadi.
 Pesona yang mengembara dunia yang kehilangan nurmu.
 Nurmu sehalus bayu,selembut sutera, dan sesyahdu harum bumi seusai hujan.
-Seusai hujan, lembaran sejarah terpadam lalu terbitlah cinta yang lestari.
+Seusai hujan, terbitlah cinta yang lestari memadam lembaran sejarah lalu.
 Cinta yang lestari karna bahasa tewas sebelum sempat memahami kita.
 Memahami kita dalam tutur kata, dikala dirimu melampaui segala bahasa.
 

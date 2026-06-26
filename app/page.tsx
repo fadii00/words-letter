@@ -232,6 +232,57 @@ Random afternoon. <3
 
 `
     },
+
+  {
+    date: "26 June 2026",
+    time: "7:59 PM",
+    song: "/music/honeybee.mp3",
+    text: `
+Hi Dear,
+
+I'm writing this letter as I feel like this song is exactly how I would describe about us. (or me)
+
+Such a cute song actually <3 hehe
+
+Btw is it normal to have trust issues even with your own best friends.
+I isolate myself from one of them right now as I know the truth.
+They 'menjaja' my story to other people.
+This is the situation:
+I told them or complaint about one of my groupmate right,
+they backing her up, yes its fine,
+but the things that I don't expect is they told the person,
+yeah I know they tryna fix the conflict or anything, but at this point, they actually make it to be a bigger problem.
+I'm complaining as how I'm afraid that if its too late that most of the things might be drag,
+that's all, but due to that there is a tension between me and that person as they already told the person about it.
+
+Then I told you last time about the time where I quarrel with my group member.
+That is when I lost trust to all my friends who heard the complaints.
+Especially this specific person that I trust soooooo muchhhh.
+
+Its more than a betrayal cause after the quarrel session,
+I told this person a bit about what happened, guess what?
+They told the person who I quarrel with about what I said to them.
+Sad ofc. But what can I do. I feel sad mostly because I won't do that kind of things to them.
+And now they wondered why I don't go to class with them, or become less chatty,
+what's the point of me opening my mouth when everything that comes out will 'dijaja'. 
+
+And I have a regular psychologist here, sometime I will meet them,
+One day, there this person in my close friends ask "Why don't I tell them if I have a problem"
+What's the point of me telling them if they keep on jaja my story.
+I rather meet with my psychologist. They keep it in the four corner of the room.
+
+Idk what to say, maybe that is one of the things that keep me sad for this week.
+
+Btw I have a rhetorical question.
+Would you still care for me even if I have attempt?
+
+That's all from me.
+Thankies.
+
+    
+    
+    `
+  }
   ];
 
 
@@ -292,6 +343,10 @@ Random afternoon. <3
 
 const image = selectedLetter !== null
   ? letters[selectedLetter].image
+  : null;
+
+const song = selectedLetter !== null
+  ? letters[selectedLetter].song
   : null;
 
   return (
@@ -371,6 +426,15 @@ const image = selectedLetter !== null
               Time: {letters[selectedLetter].time}
 
             </p>
+
+            {song && (
+               <audio
+                controls
+                className="mb-10"
+              >
+                <source src={song} type="audio/mp3" />
+              </audio>
+            )}
 
             {image && (
               <div className="mb-10 flex justify-center">

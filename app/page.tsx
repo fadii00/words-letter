@@ -282,6 +282,26 @@ Thankies.
     
     
     `
+  },
+
+  {
+    date: "29 June 2026",
+    time: "2:32 AM",
+    image: "/photos/meNu.JPEG",
+    text: `
+  Hi Dear,
+
+  I'm writing letter as a token of Congratulations for your great performance.<3
+
+  It was such a fun night or maybe a side quest for me and my fwendsss.
+  As I told you before,I never thought that I would see that sides of you.
+  How do I explain it? Unjustifiable.
+
+  Quite short. Bit tired. Miss u. See u later. (keeping this pic here)
+
+  Bubyee.
+    
+    `
   }
   ];
 
